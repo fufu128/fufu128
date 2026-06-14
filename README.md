@@ -129,12 +129,8 @@ engineering/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fufu128&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufu128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=fufu128&hide_border=true&background=0d1117&ring=D4A040&fire=D4A040&currStreakLabel=D4A040&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=D4A040&sideNums=D4A040" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=fufu128&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
