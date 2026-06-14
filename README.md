@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- ============ HEADER ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+fufu712;%3E+ML+Researcher+%2F+Software+Engineer" alt="typing-header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+fufu128;%3E+ML+Researcher+%2F+Software+Engineer" alt="typing-header" />
 
 </div>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "name": "fufu712",
+  "name": "fufu128",
   "role": ["ML Researcher", "Software Engineer"],
   "location": "Fukui, Japan",
   "education": {
@@ -84,12 +84,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fufu712&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufu712&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fufu128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufu128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=fufu712&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=fufu128&theme=tokyonight&hide_border=true" />
 
 </div>
 
